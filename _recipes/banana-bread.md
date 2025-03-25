@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Banana Bread"
 image: banana-bread.jpg
@@ -11,21 +10,21 @@ tags:
 
 ingredients:
 - 4 bananas
-- 1/2 cup butter
-- 1/2 cup sugar
+- 113 g butter
+- 100 g sugar
 - 2 eggs
-- 2 cups flour
-- 1/2 tsp baking soda
-- 1 tsp baking powder
+- 240 g flour
+- 1/2 teaspoon baking soda
+- 1 teaspoon baking powder
 - pinch salt
-- 1/4 cup nuts (we like pecans)
+- 28 g nuts (we like pecans)
 
 directions:
-- Beat the eggs, then cream with the butter and sugar
-- Mix in bananas, then flour, baking soda/powder, salt, and nuts
-- Add to greased and floured pan
-- Bake until brown/cracked, toothpick comes out clean
+- Beat the eggs, then cream with the butter and sugar.
+- Mix in the bananas, then add the flour, baking soda, baking powder, salt, and nuts.
+- Pour the batter into a greased and floured pan.
+- Bake until the top is browned and cracked, and a toothpick inserted comes out clean.
 
 ---
 
-From Angie's mom
+A classic banana bread recipe that's perfect for breakfast or a snack. This moist and flavorful bread is easy to make and enjoyed by all.

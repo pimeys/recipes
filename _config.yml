@@ -1,13 +1,12 @@
 # Site settings
 title: Chowdown
-email: your-email@domain.com
+email: julius@nauk.io
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+baseurl: "http://127.0.0.1:4000"
 language: "en"
 lang_direction: "ltr"
 color: "#F53200"
-twitter_username: clarklab
-github_username:  clarklab
+github_username:  pimeys
 
 # Build settings
 markdown: kramdown

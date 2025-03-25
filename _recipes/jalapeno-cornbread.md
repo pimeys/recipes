@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Jalapeno Cornbread"
 image: jalapeno-cornbread.jpg
@@ -11,16 +10,16 @@ tags:
 
 ingredients:
 - 1 box "fiesta" corn bread mix
-- 1 can of sweet corn
-- 1 cup sour cream
-- pickled jalapeños to taste
+- 1 can (about 340 g) sweet corn
+- 240 ml sour cream
+- Pickled jalapeños to taste
 
 directions:
-- Make the cornbread mix according to the box (usually needs eggs and milk).
-- Add a full can or corn (a regular sized can) and the sour cream (1 cup).
+- Prepare the cornbread mix according to the package instructions (usually requires eggs and milk).
+- Add the entire can of corn and the sour cream to the mixture.
 - Pour into a large glass baking dish and top with jalapeños.
-- Bake a few mins longer than the box says (we've added a lot of liquid).
+- Bake for a few minutes longer than the package instructions suggest, as extra liquid has been added.
 
 ---
 
-This corny cornbread pairs perfectly with chili or a bowl of stew. Add corn to the batter and you'll never go back.
+This flavorful cornbread is perfect for serving alongside chili or stew. The addition of corn and jalapeños gives it a delightful twist.
