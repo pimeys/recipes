@@ -2,11 +2,11 @@
 title: Chowdown
 email: julius@nauk.io
 description: The plain text recipe database for hackers
-baseurl: "http://127.0.0.1:4000"
+baseurl: "https://pimeys.github.io/recipes"
 language: "en"
 lang_direction: "ltr"
 color: "#F53200"
-github_username:  pimeys
+github_username: pimeys
 
 # Build settings
 markdown: kramdown
@@ -19,7 +19,7 @@ collections:
   recipes:
     output: true
 
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+exclude: ["Gemfile", "Gemfile.lock", "Rakefile", "README.md"]
 
 translation:
   en:
