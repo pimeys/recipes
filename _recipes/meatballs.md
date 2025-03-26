@@ -18,7 +18,7 @@ directions:
 components:
 - 1 large onion, finely chopped and divided
 - 500 g minced meat (pork and veal mix, or one type)
-- 75 g fresh breadcrumbs (or 1/2 cup dried breadcrumbs with water)
+- 75 g fresh breadcrumbs (or 1/2 cup dried breadcrumbs)
 - 75 g parmesan cheese, finely grated
 - 1 egg, lightly beaten
 - 1/2 teaspoon ground black pepper
