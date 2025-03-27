@@ -26,7 +26,7 @@ directions:
 - Preheat the oven to 190°C.
 - Roll out the dough on a generously floured surface to approximately 8 mm thick. Cut cookies and transfer to ungreased baking sheets.
 - Bake for 10-12 minutes or until lightly golden.
-- Remove from the oven, transfer to a cooling rack, and let cool completely before frosting.
+- Remove from the oven, transfer to a cooling rack, and let cool completely before refrigerating.
 
 ---
 
